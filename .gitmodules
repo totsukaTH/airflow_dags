@@ -1,0 +1,3 @@
+[submodule "dags1"]
+	path = dags1
+	url = https://github.com/totsukaTH/dags1.git
